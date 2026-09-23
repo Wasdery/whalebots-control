@@ -45,9 +45,9 @@ Phần mềm tự theo dõi và **nhắn tin riêng** cho người thuê khi má
 
 | Loại lỗi | Cách phát hiện |
 |---|---|
-| Không hiển thị game | Màn hình trắng trơn — báo ngay |
+| Không hiển thị game | Màn hình trắng trơn — báo ngay, vẫn trắng sau 5 phút thì **tự tắt/bật lại** giúp khách |
 | Bot bị treo | Chụp màn hình định kỳ, hai lần liên tiếp giống nhau |
-| Lệnh không có hiệu lực | Gõ `start` mà máy vẫn chưa chạy sau vài phút |
+| Lệnh không có hiệu lực | Gõ `start` mà máy vẫn chưa chạy sau vài phút, vẫn chưa chạy sau 5 phút tiếp thì **tự bật lại** giúp khách |
 
 ---
 
