@@ -58,6 +58,7 @@ Phần mềm tự theo dõi và **nhắn tin riêng** cho người thuê khi má
 - Giả lập (BlueStacks) đã tạo sẵn các instance
 - Máy bật liên tục khi muốn bot hoạt động
 - Bot Discord đã bật **MESSAGE CONTENT INTENT**
+- Khi mở, phần mềm sẽ hỏi **quyền Administrator** — bấm **Yes** (cần để điều khiển được WhaleBots)
 
 Không cần cài Python — mọi thứ nằm trong file `.exe`.
 
